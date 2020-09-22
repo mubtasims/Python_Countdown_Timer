@@ -1,3 +1,3 @@
 # Python_Countdown_Timer
 
-This Python countdown timer is going to count the seconds from which the user inputs to 0 and print out "Time's up!". 
+This program is a Python countdown timer which counts the seconds from which the user inputs to 0 and prints out "Time's up!". 
